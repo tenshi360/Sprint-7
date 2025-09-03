@@ -88,7 +88,7 @@ Esta aplicación está desplegada utilizando Render.com. El proceso de despliegu
 - Comando de Build:
 
 ```bash
-pip install -r requirements.txt
+pip install --upgrade pip && pip install -r requirements.txt
 ```
 
 ```bash

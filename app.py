@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import plotly.graph_objects as go
 
-car_data = pd.read_csv('/Users/warsm/Desktop/TripleTen/Sprint-7/vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 
 st.header('Venta de vehículos')
 st.subheader('Análisis de las distintas publicaciones de venta para vehículos usados y nuevos\nMarca alguna de las casillas para generar alguno de los 3 gráficos.')

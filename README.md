@@ -53,7 +53,7 @@ El conjunto de datos `vehicle_listings.csv` se visualiza mediante:
 
 ### Requisitos Previos
 
-- Python 3.8 o superior
+- Python 3.1 o superior
 - pip (gestor de paquetes)
 
 ### Instalación

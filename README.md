@@ -71,7 +71,7 @@ cd Sprint-7
 
 ```bash
 python -m venv vehicles_env
-source vehicles_env/bin/activate  # En Windows: venv\Scripts\activate
+source vehicles_env/bin/activate  # En Windows: vehicles_env\Scripts\activate
 ```
 
 3. **Instala las dependencias:**:

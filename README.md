@@ -95,6 +95,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+**Link de la app:** https://sprint-7-qi12.onrender.com
+
 
 ## Uso
 

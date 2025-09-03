@@ -47,7 +47,7 @@ if odometer_hist: # si la casilla de verificación está seleccionada
 
 
 # Casilla de verificación para generar scatter plot del odometro en relacion al precio
-odometer_disp = st.checkbox('Construir un histograma', key="sct")
+odometer_disp = st.checkbox('Construir un gráfico de dispersión', key="sct")
 if odometer_disp:
 
     st.write('Construir un grafico de dispercion para mostrar la relacion entre precio y odómetro')
